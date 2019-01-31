@@ -18,6 +18,7 @@
 
 static void long_taking_function();
 
+
 TEST(test_stopwatch)
 {
 	start_stopwatch();
